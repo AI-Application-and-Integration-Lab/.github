@@ -30,6 +30,11 @@ We are a research lab focused on exploring the intersection of artificial intell
 *European Conference on Computer Vision (ECCV)*  
 [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-73004-7_19)[[code]](https://github.com/AI-Application-and-Integration-Lab/SAM4MLLM)
 
+- **RDPN6D: Residual-based Dense Point-wise Network for 6Dof Object Pose Estimation Based on RGB-D Images**  
+*Zong-Wei Hong, Yen-Yang Hung, Chu-Song Chen*  
+*CVPR Workshop DLGC, 2024*  
+[[paper]](https://openaccess.thecvf.com/content/CVPR2024W/DLGC/papers/Hong_RDPN6D_Residual-based_Dense_Point-wise_Network_for_6Dof_Object_Pose_Estimation_CVPRW_2024_paper.pdf)[[code]](https://github.com/AI-Application-and-Integration-Lab/RDPN6D)
+
 - **Open-Vocabulary Panoptic Segmentation Using Bert Pre-Training of Vision-Language Multiway Transformer Model**  
 *Yi-Chia Chen, Wei-Hua Li, Chu-Song Chen*  
 *International Conference on Image Processing (ICIP)*  
@@ -42,6 +47,10 @@ We are a research lab focused on exploring the intersection of artificial intell
 *International Conference on Computer Vision (ICCV)*  
 [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Hsieh_Class-incremental_Continual_Learning_for_Instance_Segmentation_with_Image-level_Weak_Supervision_ICCV_2023_paper.pdf)[[code]](https://github.com/AI-Application-and-Integration-Lab/CL4WSIS)
 
+- **Domain-Generalized Face Anti-Spoofing with Unknown Attacks**  
+*Zong-Wei Hong, Yu-Chen Lin, Hsuan-Tung Liu, Yi-Ren Yeh, Chu-Song Chen*  
+*IEEE International Conference on Image Processing (ICIP)*  
+[[paper]](https://ieeexplore.ieee.org/abstract/document/10223078)[[code]](https://github.com/AI-Application-and-Integration-Lab/DGUA_FAS)
 
 ## 👥 Maintainers
 
