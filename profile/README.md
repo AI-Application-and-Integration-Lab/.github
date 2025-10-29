@@ -11,7 +11,7 @@ We are a research lab focused on exploring the intersection of artificial intell
 - **RIDGE: Relation-Rich Visual Document Generator for Visual Information Extraction**  
 *Zi-Han Jiang, Chien-Wei Lin, Wei-Hua Li, Hsuan-Tung Liu, Yi-Ren Yeh, Chu-Song Chen*  
 *Conference on Computer Vision and Pattern Recognition (CVPR)*  
-[[paper]](https://arxiv.org/abs/2504.10659)[[code]]()
+[[paper]](https://arxiv.org/abs/2504.10659)[[code]](https://github.com/AI-Application-and-Integration-Lab/RIDGE)
 
 - **PDSeg: Patch-Wise Distillation and Controllable Image Generation for Weakly-Supervised Histopathology Tissue Segmentation**  
 *Wei-Hua Li, Yu-Hsing Hsieh, Huei-Fang Yang, Chu-Song Chen*  
