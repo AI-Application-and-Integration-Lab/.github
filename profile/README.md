@@ -8,6 +8,11 @@ We are a research lab focused on exploring the intersection of artificial intell
 
 ### 2025
 
+- **MegaRAG: Multimodal Graph-based Retrieval Augmented Generation**  
+*Chi-Hsiang Hsiao, Yi-Cheng Wang, Tzung-Sheng Lin, Yi-Ren Yeh, Chu-Song Chen*  
+*Arxiv 26 Nov 2025*  
+[[paper]](https://arxiv.org/abs/2512.20626)[[code]](https://github.com/AI-Application-and-Integration-Lab/MegaRAG)
+
 - **RIDGE: Relation-Rich Visual Document Generator for Visual Information Extraction**  
 *Zi-Han Jiang, Chien-Wei Lin, Wei-Hua Li, Hsuan-Tung Liu, Yi-Ren Yeh, Chu-Song Chen*  
 *Conference on Computer Vision and Pattern Recognition (CVPR)*  
