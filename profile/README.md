@@ -6,11 +6,14 @@ We are a research lab focused on exploring the intersection of artificial intell
 
 ## 📄 Selected Publications
 
-### 2025
+### 2026
+
 - **Mask-aware Text-to-Image Retrieval: Referring Expression Segmentation Meets Cross-modal Retrieval**  
 *Tai Peng, Chu-Song Chen*  
 *IEEE Transactions on Consumer Electronics*  
 [[paper]](https://ieeexplore.ieee.org/abstract/document/11355800)[[code]](https://github.com/AI-Application-and-Integration-Lab/MAViS)
+
+### 2025
 
 - **Mask-aware Text-to-Image Retrieval: Referring Expression Segmentation Meets Cross-modal Retrieval**  
 *Li-Cheng Shen, Jih-Kang Hsieh, Wei-Hua Li, Chu-Song Chen*  
