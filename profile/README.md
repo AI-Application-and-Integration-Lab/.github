@@ -10,7 +10,7 @@ We are a research lab focused on exploring the intersection of artificial intell
 
 - **Customized Visual Storytelling with Unified Multimodal LLMs**  
 *Wei-Hua Li, Cheng Sun, Chu-Song Chen*  
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshop*  
+*CVPR Workshop AIStory, 2026*  
 [[paper]]()[[code]]()
 
 - **MAViS: A Multi-Agent Approach for Training-Free Referring Video Object Segmentation**  
