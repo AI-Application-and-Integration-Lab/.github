@@ -8,7 +8,12 @@ We are a research lab focused on exploring the intersection of artificial intell
 
 ### 2026
 
-- **Mask-aware Text-to-Image Retrieval: Referring Expression Segmentation Meets Cross-modal Retrieval**  
+- **Customized Visual Storytelling with Unified Multimodal LLMs**  
+*Wei-Hua Li, Cheng Sun, Chu-Song Chen*  
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshop*  
+[[paper]]()[[code]]()
+
+- **MAViS: A Multi-Agent Approach for Training-Free Referring Video Object Segmentation**  
 *Tai Peng, Chu-Song Chen*  
 *IEEE Transactions on Consumer Electronics*  
 [[paper]](https://ieeexplore.ieee.org/abstract/document/11355800)[[code]](https://github.com/AI-Application-and-Integration-Lab/MAViS)
