@@ -8,6 +8,11 @@ We are a research lab focused on exploring the intersection of artificial intell
 
 ### 2026
 
+- **MegaRAG: Multimodal Graph-based Retrieval Augmented Generation**  
+*Chi-Hsiang Hsiao, Yi-Cheng Wang, Tzung-Sheng Lin, Yi-Ren Yeh, Chu-Song Chen*  
+*ACL 2026*  
+[[paper]](https://arxiv.org/abs/2512.20626)[[code]](https://github.com/AI-Application-and-Integration-Lab/MegaRAG)
+
 - **Customized Visual Storytelling with Unified Multimodal LLMs**  
 *Wei-Hua Li, Cheng Sun, Chu-Song Chen*  
 *CVPR Workshop AIStory, 2026*  
@@ -24,11 +29,6 @@ We are a research lab focused on exploring the intersection of artificial intell
 *Li-Cheng Shen, Jih-Kang Hsieh, Wei-Hua Li, Chu-Song Chen*  
 *International Conference on Multimedia Retrieval (ICMR)*  
 [[paper]](https://arxiv.org/abs/2506.22864)[[code]](https://github.com/AI-Application-and-Integration-Lab/MaTIR)
-
-- **MegaRAG: Multimodal Graph-based Retrieval Augmented Generation**  
-*Chi-Hsiang Hsiao, Yi-Cheng Wang, Tzung-Sheng Lin, Yi-Ren Yeh, Chu-Song Chen*  
-*Arxiv Paper*  
-[[paper]](https://arxiv.org/abs/2512.20626)[[code]](https://github.com/AI-Application-and-Integration-Lab/MegaRAG)
 
 - **RIDGE: Relation-Rich Visual Document Generator for Visual Information Extraction**  
 *Zi-Han Jiang, Chien-Wei Lin, Wei-Hua Li, Hsuan-Tung Liu, Yi-Ren Yeh, Chu-Song Chen*  
