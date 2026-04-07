@@ -10,12 +10,12 @@ We are a research lab focused on exploring the intersection of artificial intell
 
 - **MegaRAG: Multimodal Graph-based Retrieval Augmented Generation**  
 *Chi-Hsiang Hsiao, Yi-Cheng Wang, Tzung-Sheng Lin, Yi-Ren Yeh, Chu-Song Chen*  
-*ACL 2026*  
+*ACL*  
 [[paper]](https://arxiv.org/abs/2512.20626)[[code]](https://github.com/AI-Application-and-Integration-Lab/MegaRAG)
 
 - **Customized Visual Storytelling with Unified Multimodal LLMs**  
 *Wei-Hua Li, Cheng Sun, Chu-Song Chen*  
-*CVPR Workshop AIStory, 2026*  
+*CVPR Workshop AIStory*  
 [[paper]](https://arxiv.org/abs/2603.27690)[[code]]()
 
 - **MAViS: A Multi-Agent Approach for Training-Free Referring Video Object Segmentation**  
