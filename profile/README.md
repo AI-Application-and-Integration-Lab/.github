@@ -15,7 +15,7 @@ We are a research lab focused on exploring the intersection of artificial intell
 
 - **Customized Visual Storytelling with Unified Multimodal LLMs**  
 *Wei-Hua Li, Cheng Sun, Chu-Song Chen*  
-*CVPR Workshop AIStory*  
+*CVPR Workshop (CVPRW) AIStory*  
 [[paper]](https://arxiv.org/abs/2603.27690)[[code]]()
 
 - **MAViS: A Multi-Agent Approach for Training-Free Referring Video Object Segmentation**  
