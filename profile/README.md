@@ -54,7 +54,7 @@ We are a research lab focused on exploring the intersection of artificial intell
 
 - **RDPN6D: Residual-based Dense Point-wise Network for 6Dof Object Pose Estimation Based on RGB-D Images**  
 *Zong-Wei Hong, Yen-Yang Hung, Chu-Song Chen*  
-*CVPR Workshop DLGC, 2024*  
+*CVPR Workshop (CVPRW) DLGC, 2024*  
 [[paper]](https://openaccess.thecvf.com/content/CVPR2024W/DLGC/papers/Hong_RDPN6D_Residual-based_Dense_Point-wise_Network_for_6Dof_Object_Pose_Estimation_CVPRW_2024_paper.pdf)[[code]](https://github.com/AI-Application-and-Integration-Lab/RDPN6D)
 
 - **Open-Vocabulary Panoptic Segmentation Using Bert Pre-Training of Vision-Language Multiway Transformer Model**  
