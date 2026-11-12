@@ -6,6 +6,12 @@ We are a research lab focused on exploring the intersection of artificial intell
 
 ## 📄 Selected Publications
 
+### 2027
+- **Multimodal Graph RAG for Long-range Visually Rich Document Understanding**
+*Yi-Cheng Wang, Chu-Song Chen*
+*Winter Conference on Applications of Computer Vision (WACV)*
+[[paper]](https://arxiv.org/pdf/2606.28780)[[code]](https://github.com/AI-Application-and-Integration-Lab/KG4VD)
+
 ### 2026
 
 - **MegaRAG: Multimodal Graph-based Retrieval Augmented Generation**  
